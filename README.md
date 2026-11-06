@@ -1,4 +1,4 @@
-![ACtoDC](ACtoDcsch.jpg)
+![ACtoDC](ACtoDCsch.jpg)
 
 This schematic represents a standard linear DC power supply circuit featuring a full-wave bridge rectifier, smoothing filter, and visual power indicator. Its main purpose is to convert alternating current (AC) input into a smooth, stable direct current (DC) output.
 
